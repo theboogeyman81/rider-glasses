@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rider Glasses</string>
+    <string name="notification_channel_name">Rider Glasses</string>
+    <string name="notification_title">Rider Glasses running</string>
+    <string name="notification_text">Tap to open</string>
+</resources>
